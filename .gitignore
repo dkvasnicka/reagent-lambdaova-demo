@@ -1,0 +1,4 @@
+target
+*.swp
+*.swo
+web/js/app.js
